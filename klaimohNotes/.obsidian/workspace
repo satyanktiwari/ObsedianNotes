@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "9b530fc99b50857a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b6ecd47264dc97b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "karateDocker.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "be20ad60c418afde",
+    "type": "split",
+    "children": [
+      {
+        "id": "2268011b87d481da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8275ae978f6b79ad",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c1af3d7b6f04c964",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c373b97d933c2b15",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12fc2bd276902982",
+    "type": "split",
+    "children": [
+      {
+        "id": "f64d9c02579130b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34efe24e34e09819",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "karateDocker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "9ef47faa93b716f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7b160f3271f1e92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "karateDocker.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "karateDocker.md",
+    "Untitled.md"
+  ]
+}
