@@ -10,9 +10,9 @@
 • Start Kali
 
 **To start docker daemon on kali after restart**
-1. systemctl start docker 
-Pasted from <https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker> 
-
+systemctl start docker 
+*Pasted from <https://stackoverflow.com/questions/44678725/cannot-connect-to-the-docker-daemon-at-unix-var-run-docker-sock-is-the-docker>*
+	
 Or try sudo dockerd
 
 https://github.com/intuit/karate/tree/develop/examples/jobserver
@@ -27,7 +27,7 @@ docker -v
 Step 2 - If this is done earlier skip this step
 docker pull ptrthomas/karate-chrome
 
-sstpe3
+Step 3
 In a terminal, change to the root of the jobserver project  
 
 docker run --name karate --rm -p 5900:5900 --cap-add=SYS_ADMIN -v "$PWD":/src ptrthomas/karate-chrome  
